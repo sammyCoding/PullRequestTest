@@ -1,5 +1,5 @@
 # PullRequestTest
-This is a project used to test pull request operations
-This line is added by amaruk-fork.
-Going to create annotated tag
-Going to create lightweight tag
+This is a project used to test pull request operations<br />
+This line is added by amaruk-fork.<br />
+Going to create annotated tag<br />
+Going to create lightweight tag<br />
