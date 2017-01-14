@@ -10,4 +10,4 @@ A new line after editing from GitHub. <br />
 Let's add again from GitHub web editor. <br />
 Again, add a new line after editing online. <br />
 This is a line added by amaruk-fork again. <br />
-amaruk-fork changed tracking remote
+amaruk-fork changed tracking remote.
