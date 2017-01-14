@@ -5,3 +5,4 @@ Going to create annotated tag<br />
 Going to create lightweight tag<br />
 This line is added in master.<br />
 This line is added in branch.<br />
+A new line after editing from GitHub
