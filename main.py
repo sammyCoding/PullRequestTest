@@ -1,5 +1,5 @@
 
 if __name__ == "__main__":
-	print "Hello, amaruk."
+	print "Hello fram master."
 	exit(0)
 
