@@ -1,5 +1,5 @@
 
 if __name__ == "__main__":
-	print "Hello, amaruk."
+	print "Hello from branchForMerge."
 	exit(0)
 
