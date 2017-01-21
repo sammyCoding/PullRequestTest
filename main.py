@@ -6,5 +6,6 @@ if __name__ == "__main__":
 	print "Hello from branchForRebase again."
 	print "Hello from branchForReset 1st."
 	print "Hello from branchForReset 2nd."
+	print "Hello from branchForReset 3rd."
 	exit(0)
 
